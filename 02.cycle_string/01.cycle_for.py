@@ -33,3 +33,5 @@ for ladder in range(7, 10000):
     if ladder % 2 == 1 and ladder % 3 == 2 and ladder % 4 == 3 and ladder % 5 == 4 and ladder % 6 == 5:
         if ladder % 7 == 0:
             print(ladder)
+
+
