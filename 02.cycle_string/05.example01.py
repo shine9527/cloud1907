@@ -30,5 +30,4 @@ else:
     print("验证码输入错误")
 
 
-# 把句子『this is my house』进行反转, 反转的结果为: house my is this
 
