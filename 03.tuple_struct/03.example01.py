@@ -14,7 +14,7 @@ month = int(input("please input your month: "))
 date = int(input("please input your date: "))
 
 for dates in range(len(rq)):
-    if (month, date) >= (12, 22):
+    if (month, date) >= (12, 22) or (month, date) < (1, 20):
         print(xz[-1])
         break
     elif (month, date) >= rq[dates]:
