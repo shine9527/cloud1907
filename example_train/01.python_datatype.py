@@ -53,8 +53,6 @@ print(string[5:])
 print(string[-11:-6])
 
 
-# 字符串中的方法
-# 字符串的加法和乘法
 
 
 
