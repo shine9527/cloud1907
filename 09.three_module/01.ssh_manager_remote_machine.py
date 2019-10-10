@@ -12,6 +12,6 @@ def exec_remote_machine_command(ip, user, passwd):
     return exec
 
 
-client = exec_remote_machine_command('39.100.110.135', 'root', 'liuchao.0725')
+client = exec_remote_machine_command('1.1.1.1', 'root', 'xxxx')
 client('ls -l /opt')
 
