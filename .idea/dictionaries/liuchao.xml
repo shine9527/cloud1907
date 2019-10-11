@@ -3,6 +3,8 @@
     <words>
       <w>alist</w>
       <w>cdir</w>
+      <w>gpfile</w>
+      <w>idrsa</w>
       <w>ifcfg</w>
       <w>keypath</w>
       <w>liuchao</w>
@@ -12,6 +14,7 @@
       <w>psswd</w>
       <w>psutil</w>
       <w>pswd</w>
+      <w>putfile</w>
       <w>slist</w>
       <w>stuple</w>
       <w>tkings</w>
